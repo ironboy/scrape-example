@@ -1,0 +1,24 @@
+{
+  "name": "scrape-example",
+  "version": "1.0.0",
+  "description": "Scraper-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ironboy@github.com/ironboy/scrape-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironboy/scrape-example/issues"
+  },
+  "homepage": "https://github.com/ironboy/scrape-example#readme",
+  "dependencies": {
+    "expres": "0.0.5",
+    "express": "^4.16.2",
+    "scraperjs": "^1.2.0"
+  }
+}
